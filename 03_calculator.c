@@ -1,6 +1,7 @@
 #include <stdio.h>
                   
 int main(){
+    
     int a,b,c;
     printf("Enter the 1st operand : \n");
     scanf("%f",&a);
@@ -27,6 +28,7 @@ if (c==5){
 if (c==1,2,3,4,5){
     printf(" ");
 }
+
 
 else  printf("You have not entered correct value");
 return 0;

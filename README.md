@@ -9,8 +9,7 @@ at Sanjivani College of Engineering.
 💻 About This Repository :
 
 This repository serves as my personal learning archive, where I 
-regularly upload C programs covering various fundamental and intermediate
-concepts.
+regularly upload C programs covering various fundamental and intermediate concepts.
 Each program represents a small step in my journey to strengthen 
 problem-solving, logic building, and consistency in coding.
 
@@ -26,8 +25,7 @@ Version Control: Git & GitHub
 🌟 About Me :
 
 I’m Mayur B. Gund, a first-year Computer Science and Engineering student.
-I’m passionate about technology, problem-solving, and building a strong
-foundation in programming.
+I’m passionate about technology, problem-solving, and building a strong foundation in programming.
 This repository reflects my learning journey, discipline, and 
 consistency — one program at a time.
 

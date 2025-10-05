@@ -6,6 +6,7 @@ exploring programming as a Computer Science and Engineering student
 at Sanjivani College of Engineering.
 
 
+
 💻 About This Repository :
 
 This repository serves as my personal learning archive, where I 
@@ -14,12 +15,17 @@ Each program represents a small step in my journey to strengthen
 problem-solving, logic building, and consistency in coding.
 
 
+
 🛠️ Tools & Technologies:
 
 Language: C
+
 Editor: VS Code / Cloud IDEs
+
 Compiler: GCC (via MinGW )
+
 Version Control: Git & GitHub
+
 
 
 🌟 About Me :
@@ -29,12 +35,18 @@ I’m passionate about technology, problem-solving, and building a strong founda
 This repository reflects my learning journey, discipline, and 
 consistency — one program at a time.
 
+
+
 📫 Connect With Me :
 
 💼 LinkedIn: https://www.linkedin.com/in/mgund1920
+
 💻 GitHub: https://github.com/engineermayur-07
+
 📝 My Coding Blog – Mayur’s Tech Journey: https://www.engineermayur.blogspot.com 
 
 
+
 💬 Quote I Follow :
+
 “Small progress every day leads to big success tomorrow.” 🌱
